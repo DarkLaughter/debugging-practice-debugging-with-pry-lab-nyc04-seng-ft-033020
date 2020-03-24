@@ -20,7 +20,7 @@ def selection(num)
 end
 
 def runner
-  prompt_user
+  prompt_userget_user_input
   selection(get_user_input)
 end
 binding.pry
