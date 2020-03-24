@@ -18,10 +18,10 @@ def selection(num)
      "HAM HAM HAM IN MY TUMMY"
   end
 end
-
+binding.pry
 def runner
   prompt_user
   get_user_input
-  binding.pry
+binding.pry
   selection(get_user_input)
 end
