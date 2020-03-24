@@ -24,4 +24,3 @@ def runner
   get_user_input
   selection(num)
 end
-binding.pry
