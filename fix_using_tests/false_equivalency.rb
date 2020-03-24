@@ -2,7 +2,6 @@ require 'pry'
 
 def get_user_input
  num = gets.chomp
- return num
 end
 
 def prompt_user
