@@ -22,6 +22,5 @@ binding.pry
 def runner
   prompt_user
   get_user_input
-binding.pry
   selection(get_user_input)
 end
