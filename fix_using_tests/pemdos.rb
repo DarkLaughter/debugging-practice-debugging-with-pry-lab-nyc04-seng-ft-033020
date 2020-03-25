@@ -1,3 +1,4 @@
 def snake_it_up(string)
-puts "ssssssssss" + string 
+  10.times do
+    string = "s" + string 
 end
